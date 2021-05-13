@@ -1,0 +1,91 @@
+*{
+    margin: 0%;
+}
+.main_header{
+    width: 100%;
+    overflow: hidden;
+}
+.header{
+    width: 18%;
+    height: 90px;
+    color: azure;
+    background-color: #0F1629;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu{
+    width: 82%;
+    height: 90px;
+    color: azure;
+    background-color: #EF3C4F;
+    float: right;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.slider{
+    width: 100%;
+    height: 450px;
+    color: azure;
+    background-color: #4C85C8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.extra{
+    overflow: hidden;
+    width: 100%;
+    height: 300px;
+}
+
+.main{
+    width: 45%;
+    height: 300px;
+    color: azure;
+    background-color: #24344B;
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.image_extra{
+    width: 55%;
+    height: 300px;
+    float: right;
+    overflow: hidden;
+
+}
+.image{
+    width: 100%;
+    height: 150px;
+    color: azure;
+    background-color: #C1E4E6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.extra_1{
+    width: 100%;
+    height: 150px;
+    color: azure;
+    background-color: #4EBC97;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.banner{
+    width: 100%;
+    height: 100px;
+    color: azure;
+    background-color: #FED269;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
